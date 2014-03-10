@@ -9,5 +9,8 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt-express-server": "git://github.com/Zev23/grunt-express-server.git",
     "load-grunt-tasks": "~0.4.0"
+  },
+  "dependencies": {
+    "koa": "~0.5.1"
   }
 }
