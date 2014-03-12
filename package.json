@@ -1,5 +1,5 @@
 {
-  "name": "grunt-watch-guide",
+  "name": "grunt-watch-guide-koa",
   "description": "Simple guide to setup GruntJs to reload server when file changed.",
   "author": "Zev23",
   "homepage": "http://abiossdao.blogspot.com",
