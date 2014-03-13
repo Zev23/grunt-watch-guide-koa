@@ -2,7 +2,7 @@
   "name": "grunt-watch-guide-koa",
   "description": "Simple guide to setup GruntJs to reload server when file changed.",
   "author": "Zev23",
-  "homepage": "http://abiossdao.blogspot.com",
+  "homepage": "http://www.zev23.com",
   "version": "0.0.1",
   "devDependencies": {
     "grunt": "~0.4.3",
